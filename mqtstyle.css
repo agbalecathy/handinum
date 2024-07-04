@@ -1,0 +1,187 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.navbar{
+    height: 97pX;
+    background-color: white;
+    box-shadow: 0px 4px 4px hwb(0 0% 100% / 0.252);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    left: 0%;
+    right: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    scroll-ba
+}
+.container{
+    margin: 0px 67px;
+}
+.site-link{
+    text-decoration: none;
+}
+.group-link{
+    list-style: none;
+    display: flex;
+    gap: 50pX;
+}
+.group-link a{
+    color: #204B9B;
+    font-size: 22px; 
+    font-weight: 300px;
+    font-style: normal;
+  
+}
+.nav-button{
+    width: 172px;
+    height: 49px;
+    color: white;
+    background-color: #F6A317;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500px;
+    font-style: normal;
+    font-size: 20px;
+    
+}
+.title{
+    color: #204B9B;
+    font-size: 78px; 
+    font-weight: 700px;
+    font-style: normal;
+   
+    line-height: 99.2%;
+    width: 598.78px;
+    height: 132px;
+    margin-bottom: 31px;
+}
+.text{
+    font-size: 25px;
+    color: #171614;
+  font-weight: 400px;
+  font-style: normal;
+  line-height: auto;
+  width: 576.75px;
+  height: 135px;
+  padding-bottom: 45px;
+}
+.introduction{
+   margin-left: 100px;
+}
+
+
+.accueil{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 165px;
+}
+.imac{
+ margin-right: 62px;
+}
+.joins-us{
+    width: 218px;
+    height: 63px;
+    color: white;
+    background-color: #F6A317;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500px;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 31px;
+}
+
+.arrow{
+    margin-left: 700px;
+}
+.les-trois-promotions{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 64px;
+  padding: 64px 148.19px 0px 148.19px;
+ 
+   
+}
+.big-box{
+    margin-top: 100px;
+    background-color: #204B9B;
+    color: white;
+    height: 724px;
+}
+.promo{
+   font-size: 30px;
+   font-weight: 700;
+   line-height: 45px;
+   text-align: center;
+}
+.apprenants-formés{
+    font-weight: 300;
+    font-style: normal;
+    line-height: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+.big-promo{
+  font-size: 54px;
+  font-weight: 700px;
+  line-height: 53.57px;
+  text-align: center;
+  padding-top: 49px;
+}
+.rejoindre{
+    width: 191.25px;
+    height: 48.34px;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.36px;
+    color: #204B9B;
+    background-color: white ;
+    margin-top: 21.72px;
+    margin-left: 63px;
+}
+.student{
+   padding-top: 100px;
+}
+
+.vecteur{
+    margin-bottom: 290px;
+  
+}
+.icone{
+   padding-bottom: 400px;
+}
+.temoignages{
+        display: flex;
+}
+.nos-etudiants{
+           
+}
+.sorel{
+
+}
+
+.pedagogie-active{
+
+}
+
+
+
+
+
+
+
