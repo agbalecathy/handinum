@@ -209,7 +209,7 @@
 
     .introduction {
         text-align: center;
-        padding-left: 20px;
+        padding-left: 15px;
     }
 
     .accueil {
@@ -256,7 +256,7 @@
     }
 .logo img{
    position: absolute;
-    right: 80px;
+    right: 50px;
     bottom: 14px;
 }
 .imac img{
